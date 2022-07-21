@@ -1,0 +1,13 @@
+.card .card_item img {
+  width: 100%;
+  height: 150px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.card .card_item .card_detals h4 {
+  font-size: 1rem;
+  font-weight: 900;
+  color: #db4ddb;
+}
+/*# sourceMappingURL=style.css.map */
