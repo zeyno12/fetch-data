@@ -18,7 +18,7 @@ const Fetchdata = () => {
                     <div className="card_item">
                         <img src="https://i.pinimg.com/474x/fb/ef/bb/fbefbb15f2d588c04662615aecdacb75.jpg" alt="salam" />
                         <div className="card_detals">
-                            <h4>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita, ad?</h4>
+                            <h4>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expeditagifhgfh ad?</h4>
                         </div>
                     </div>
                     </div>
